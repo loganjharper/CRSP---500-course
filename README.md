@@ -1,3 +1,6 @@
+
+This repository contains course materials originally developed by Dr. Thomas Love for PQHS 500. The repository was initially forked from Dr. Love's course repository and has been separated into an independent repository for my personal work and analyses.
+
 # 500-data
 
 Data and R code repository for 500 in Spring 2026.
